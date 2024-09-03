@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+	min-height: 100vh;
+}
+
+.form {
+    position:relative;
+    top:40vh;
+}
+
+.input {
+	padding:1000px;
+}
